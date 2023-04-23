@@ -30,7 +30,7 @@
 	"gameShortName":"Quiplash",
 	"allowIntroSkip":"true",
 	"supportsKeyboard":"true",
-	"joinUrl":"jackbox.gg",
+	"joinUrl":"jackbox.de",
 	"supportsMouse":"true",
 	"connectingDurationTrouble":"15000",
 	"dev-console":"false",
